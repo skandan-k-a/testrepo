@@ -1,7 +1,5 @@
 print("Hello world")
-<<<<<<< HEAD
 print("Eat Bhelpuri")
-=======
 hungry=input("Are you Hungry?")
 if hungry=="yes":
     print("Eat Something")
@@ -12,4 +10,3 @@ else:
         print("Drink soda")
     else:
         print("cool")
->>>>>>> thirsty
